@@ -5,6 +5,7 @@ This repository stores project journey documents, executive summaries, and suppo
 ## Contents
 
 - `Prerequisite_Processing_Project_Journey.docx` - Project journey document.
+- `SummerInternship.pdf` - Summer internship reference document.
 - `DoceboLearnCrashCourse.pptx` - Docebo Learn crash course presentation.
 - `DoceboLearnCrashCourseTech.pptx` - Technical Docebo Learn crash course presentation.
 - `2026-04-24-project-journey-enlight-spfx-executive-summary/` - Folder containing the Enlight SPFX executive summary markdown.
